@@ -1,0 +1,1 @@
+{"name":"vfx-music-vault","version":"1.1.0","private":true,"description":"VFX MUSIC VAULT responsive neon music web app with JioSaavn search and playlists","main":"server.js","scripts":{"start":"node server.js","dev":"node server.js"},"engines":{"node":">=18"},"dependencies":{"crypto-js":"^4.2.0"}}

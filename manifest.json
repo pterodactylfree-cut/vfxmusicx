@@ -1,0 +1,16 @@
+{
+  "id": "/",
+  "name": "VFX MUSIC VAULT",
+  "short_name": "VFX Music",
+  "description": "Discover and play music with VFX MUSIC VAULT by SOURAJIT VFX.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080a12",
+  "theme_color": "#080a12",
+  "categories": ["music", "entertainment"],
+  "icons": [
+    {"src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
